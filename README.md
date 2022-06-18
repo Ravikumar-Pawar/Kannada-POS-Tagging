@@ -10,6 +10,8 @@ Filename	 	- ./supervised.py
 Description	- HMM based POS tagger using supervised learning technique.
 
 Usage		- python supervised.py <language> <test_file_path> 
+
+Ex 			-python supervised.py 2 test_file.txt
 	
 Example		- To execute for hindi, telugu, kannada, tamil enter the below line.
 		- python supervised.py 0 ./data/hindi_testing.txt
