@@ -2,11 +2,8 @@
 README - SUPERVISED
 --------------------------------------------------------------------------
 
-Author(s)	- 201307556 :: Rajesh Kumar
-		- 201307593 :: Kiran Raj S R
-		- 201307635 :: Abhinav Yadav
 
-Date		- October 22, 2013
+Date		- June 18, 2022
 
 Filename	 	- ./supervised.py
 
@@ -47,11 +44,6 @@ Argument Details
 README - UNSUPERVISED
 --------------------------------------------------------------------------
 
-
-
-Author(s)	- 201307556 :: Rajesh Kumar
-		- 201307593 :: Kiran Raj S R
-		- 201307635 :: Abhinav Yadav
 
 Date		- October 22, 2013
 
